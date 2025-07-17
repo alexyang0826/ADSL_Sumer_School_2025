@@ -1,8 +1,8 @@
 
 # 2025 Summer School
 
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexyang0826/ADSL_Sumer_School_2025)
 [![hackmd-github-sync-badge](https://hackmd.io/JYrpA6VZQ_iQIDBMimXeNw/badge)](https://hackmd.io/JYrpA6VZQ_iQIDBMimXeNw)
-
 
 本次 Summer School 的主題為 **Advanced Large Language Model Agents**，請大家依下方連結及排程觀看影片。整個課程共包含 12 部影片，分為 6 週進行，每週需觀看 2 部影片。
 本屆（碩0）共 4 人，每人需認領 3 部影片，並負責撰寫該影片的筆記。完成後，請將筆記的連結填寫在下方的 Note 欄位中（筆記可以存放在 ADSL 雲端硬碟）。
